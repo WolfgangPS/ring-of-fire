@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "ringoffire3",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
